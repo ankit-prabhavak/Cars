@@ -22,8 +22,8 @@ body {
   top: 0; /* Fix it to the top */
   left: 0;
   right: 0;
-  background: linear-gradient(135deg, #5b09df, #ed7f7f); /* Dark gradient background */
-  color: #21e80b; /* Change font color of header text (bright yellow) */
+  background: linear-gradient(135deg, #df4909, #110e0e); /* Dark gradient background */
+  color: #ffcc00; /* Change font color of header text (bright yellow) */
   font-family: 'Comic Sans MS', cursive, sans-serif; /* Comic Sans MS font */
   text-align: center;
   padding: 20px 20px;
@@ -57,7 +57,7 @@ body {
 
 .main-header p:hover {
   opacity: 1;
-  color: #fff; /* Color change on hover */
+  color: #09fd1d; /* Color change on hover */
 }
 
 /* 2. Supercar Info Section */
@@ -119,5 +119,5 @@ body {
 }
 
 .main-header h1:hover {
-  color: #ffcc00; /* Hover color change for header title */
+  color: #f4f2eb; /* Hover color change for header title */
 }
